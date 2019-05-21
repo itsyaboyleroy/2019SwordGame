@@ -1,0 +1,832 @@
+﻿Log file open, 05/19/19 16:56:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SwordGame2019
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.299276
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.19-22.57.00:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.19-22.57.00:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.19-22.57.00:042][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.19-22.57.00:045][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.19-22.57.00:045][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.19-22.57.00:046][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.19-22.57.00:047][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.19-22.57.00:048][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.19-22.57.00:048][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-22.57.00:048][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.19-22.57.00:065][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.19-22.57.00:065][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.19-22.57.00:065][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.05.19-22.57.00:065][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.19-22.57.00:066][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.19-22.57.00:067][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.19-22.57.00:067][  0]LogInit: Computer: LAPTOP-PQO8S6FS
+[2019.05.19-22.57.00:067][  0]LogInit: User: alexs
+[2019.05.19-22.57.00:067][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.19-22.57.00:067][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.19-22.57.00:067][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.19-22.57.00:067][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.19-22.57.00:067][  0]LogMemory: Process Physical Memory: 98.85 MB used, 98.86 MB peak
+[2019.05.19-22.57.00:067][  0]LogMemory: Process Virtual Memory: 93.86 MB used, 93.86 MB peak
+[2019.05.19-22.57.00:067][  0]LogMemory: Physical Memory: 8810.75 MB used,  7456.85 MB free, 16267.60 MB total
+[2019.05.19-22.57.00:067][  0]LogMemory: Virtual Memory: 4662.05 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.05.19-22.57.00:109][  0]LogInit: Using OS detected language (en-US).
+[2019.05.19-22.57.00:109][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.19-22.57.00:109][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.19-22.57.00:367][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.19-22.57.00:426][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.19-22.57.00:426][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.19-22.57.00:685][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-22.57.00:685][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.19-22.57.00:764][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.05.19-22.57.00:764][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.19-22.57.00:776][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.19-22.57.00:776][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.05.19-22.57.00:777][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.19-22.57.00:777][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.19-22.57.00:777][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.19-22.57.00:791][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.19-22.57.00:791][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.19-22.57.00:791][  0]LogWindows: EnumDisplayDevices:
+[2019.05.19-22.57.00:791][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.05.19-22.57.00:792][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.19-22.57.00:792][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.19-22.57.00:792][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.05.19-22.57.00:792][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.05.19-22.57.00:792][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.05.19-22.57.00:792][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.05.19-22.57.00:792][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.05.19-22.57.00:792][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.05.19-22.57.00:848][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.19-22.57.00:871][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.19-22.57.00:872][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.19-22.57.00:872][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.19-22.57.00:881][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.19-22.57.01:354][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.19-22.57.01:371][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.19-22.57.01:387][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.19-22.57.01:404][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.19-22.57.01:422][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.19-22.57.01:438][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.19-22.57.01:455][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.19-22.57.01:472][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.19-22.57.01:479][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.19-22.57.01:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.19-22.57.01:593][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.19-22.57.01:648][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.19-22.57.01:648][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.19-22.57.01:677][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.19-22.57.01:677][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.19-22.57.01:692][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.19-22.57.01:707][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.19-22.57.01:722][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.19-22.57.01:739][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.19-22.57.01:795][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.19-22.57.01:795][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.19-22.57.01:795][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.19-22.57.01:807][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.19-22.57.01:869][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Intermediate/Shaders/WorkingDirectory/5016/).
+[2019.05.19-22.57.01:869][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexs/AppData/Local/Temp/UnrealShaderWorkingDir/CCCC016D476586A9BEF73FB8B2D1EEF1/'.
+[2019.05.19-22.57.01:874][  0]LogXGEController: Cleaning working directory: C:/Users/alexs/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.19-22.57.01:874][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.19-22.57.01:874][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.19-22.57.01:874][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.19-22.57.02:669][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.19-22.57.02:736][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/alexs/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.19-22.57.02:737][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexs/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.19-22.57.02:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.19-22.57.02:737][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.19-22.57.02:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-22.57.02:737][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.19-22.57.02:755][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.19-22.57.02:756][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-22.57.02:756][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.19-22.57.02:769][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexs/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.19-22.57.02:769][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.19-22.57.02:769][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.19-22.57.02:801][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.19-22.57.02:802][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.19-22.57.02:803][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.19-22.57.02:919][  0]LogAssetRegistry: FAssetRegistry took 0.0422 seconds to start up
+[2019.05.19-22.57.03:417][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-22.57.03:494][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.19-22.57.03:494][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.19-22.57.03:494][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.19-22.57.03:494][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.19-22.57.03:494][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.19-22.57.03:633][  0]LogNetVersion: SwordGame2019 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 380501120)
+[2019.05.19-22.57.04:243][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.061035 seconds
+[2019.05.19-22.57.04:252][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.19-22.57.04:252][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.19-22.57.04:252][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.19-22.57.05:424][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.19-22.57.05:442][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.19-22.57.05:570][  0]SourceControl: Source control is disabled
+[2019.05.19-22.57.05:570][  0]SourceControl: Source control is disabled
+[2019.05.19-22.57.05:572][  0]SourceControl: Source control is disabled
+[2019.05.19-22.57.05:574][  0]SourceControl: Source control is disabled
+[2019.05.19-22.57.05:670][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.19-22.57.05:831][  0]LogOcInput: OculusInput pre-init called
+[2019.05.19-22.57.06:659][  0]LogEngine: Initializing Engine...
+[2019.05.19-22.57.06:659][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-22.57.06:660][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.19-22.57.06:961][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.19-22.57.06:980][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.19-22.57.07:016][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-22.57.07:050][  0]LogInit: FAudioDevice initialized.
+[2019.05.19-22.57.07:050][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.19-22.57.07:255][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/alexs/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.19-22.57.07:276][  0]LogInit: Texture streaming: Enabled
+[2019.05.19-22.57.07:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.19-22.57.07:329][  0]LogInit: Transaction tracking system initialized
+[2019.05.19-22.57.07:360][  0]BlueprintLog: New page: Editor Load
+[2019.05.19-22.57.07:469][  0]LocalizationService: Localization service is disabled
+[2019.05.19-22.57.08:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/' took 0.02s
+[2019.05.19-22.57.08:562][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.19-22.57.08:562][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.19-22.57.08:822][  0]SourceControl: Source control is disabled
+[2019.05.19-22.57.08:822][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-22.57.08:823][  0]LightingResults: New page: Lighting Build
+[2019.05.19-22.57.08:825][  0]MapCheck: New page: Map Check
+[2019.05.19-22.57.08:825][  0]LightingResults: New page: Lighting Build
+[2019.05.19-22.57.08:858][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.05.19-22.57.09:382][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.19-22.57.09:395][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-22.57.09:429][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.05.19-22.57.09:429][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-22.57.09:429][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2019.05.19-22.57.09:429][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.607
+[2019.05.19-22.57.09:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-22.57.09:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-22.57.09:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-22.57.09:589][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-22.57.09:595][  0]LogCollectionManager: Loaded 0 collections in 0.001805 seconds
+[2019.05.19-22.57.09:611][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Collections/' took 0.01s
+[2019.05.19-22.57.09:611][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/Developers/alexs/Collections/' took 0.00s
+[2019.05.19-22.57.09:611][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/Collections/' took 0.00s
+[2019.05.19-22.57.09:611][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.19-22.57.09:625][  0]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2732 classes and 659 folders.
+[2019.05.19-22.57.09:632][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.19-22.57.09:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:638][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-22.57.09:692][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.19-22.57.09:698][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.05.19-22.57.11:212][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.19-22.57.11:247][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.19-22.57.11:249][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.19-22.57.11:258][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.19-22.57.11:353][  0]LogRenderer: Reallocating scene render targets to support 1208x552 Format 9 NumSamples 1 (Frame:1).
+[2019.05.19-22.57.11:491][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.19-22.57.11:491][  0]LogLoad: (Engine Initialization) Total time: 13.62 seconds
+[2019.05.19-22.57.11:491][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.19-22.57.11:560][  0]LogAssetRegistry: Asset discovery search completed in 8.6651 seconds
+[2019.05.19-22.57.11:564][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.19-22.57.11:564][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.05.19-22.57.11:566][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.05.19-22.57.11:608][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-22.57.12:857][  4]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-22.57.18:981][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-22.57.19:063][142]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.19-22.57.19:082][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.19-22.57.19:083][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.19-22.57.19:083][142]PIE: New page: PIE session: FirstPersonExampleMap (May 19, 2019, 10:57:19 AM)
+[2019.05.19-22.57.19:097][142]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.05.19-22.57.19:117][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019815s)
+[2019.05.19-22.57.19:118][142]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.19-22.57.19:119][142]LogPlayLevel: PIE: World Init took: (0.001943s)
+[2019.05.19-22.57.19:119][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022346s)
+[2019.05.19-22.57.19:151][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.05.19-22.57.19:187][142]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-22.57.19:211][142]LogInit: FAudioDevice initialized.
+[2019.05.19-22.57.19:253][142]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.05.19-22.57.19:257][142]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.05.19-16.57.19
+[2019.05.19-22.57.19:258][142]LogWorld: Bringing up level for play took: 0.002585
+[2019.05.19-22.57.19:277][142]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.19-22.57.19:280][142]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.793
+[2019.05.19-22.57.19:280][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.19-22.57.20:970][240]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.19-22.57.20:971][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-22.57.21:002][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-22.57.21:003][240]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.05.19-22.57.21:035][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-22.57.21:041][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.05.19-22.57.21:069][241]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.19-22.57.24:948][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-22.57.25:210][479]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.19-22.57.25:217][479]LogAssetEditorManager: Opening Asset editor for World /Game/swordPlayer/playerTestLevel.playerTestLevel
+[2019.05.19-22.57.25:242][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.05.19-22.57.25:244][479]Cmd: MAP LOAD FILE="../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/playerTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-22.57.25:244][479]LightingResults: New page: Lighting Build
+[2019.05.19-22.57.25:246][479]LoadErrors: New page: Loading map: playerTestLevel.umap
+[2019.05.19-22.57.25:248][479]MapCheck: New page: Map Check
+[2019.05.19-22.57.25:248][479]LightingResults: New page: Lighting Build
+[2019.05.19-22.57.25:277][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.05.19-22.57.25:280][479]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-22.57.25:310][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.05.19-22.57.25:339][479]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-22.57.25:339][479]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2019.05.19-22.57.25:339][479]LogFileHelpers: Loading map 'playerTestLevel' took 0.097
+[2019.05.19-22.57.45:254][657]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.19-22.57.45:272][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.19-22.57.45:272][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.19-22.57.45:272][657]PIE: New page: PIE session: playerTestLevel (May 19, 2019, 10:57:45 AM)
+[2019.05.19-22.57.45:272][657]LogPlayLevel: Creating play world package: /Game/swordPlayer/UEDPIE_0_playerTestLevel
+[2019.05.19-22.57.45:275][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002555s)
+[2019.05.19-22.57.45:276][657]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.19-22.57.45:276][657]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2019.05.19-22.57.45:276][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/swordPlayer/playerTestLevel.playerTestLevel to /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel (0.003623s)
+[2019.05.19-22.57.45:307][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.05.19-22.57.45:340][657]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-22.57.45:356][657]LogInit: FAudioDevice initialized.
+[2019.05.19-22.57.45:392][657]LogLoad: Game class is 'swordGameMode_C'
+[2019.05.19-22.57.45:393][657]LogWorld: Bringing World /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel up for play (max tick rate 60) at 2019.05.19-16.57.45
+[2019.05.19-22.57.45:393][657]LogWorld: Bringing up level for play took: 0.000457
+[2019.05.19-22.57.45:407][657]PIE: Play in editor start time for /Game/swordPlayer/UEDPIE_0_playerTestLevel -0.665
+[2019.05.19-22.57.45:407][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.19-22.57.50:466][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.19-22.57.50:467][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-22.57.50:500][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-22.57.50:500][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.19-22.57.50:534][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-22.57.50:537][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.05.19-22.57.50:585][961]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.19-22.57.58:455][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-22.58.42:513][510]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/alexs/Desktop/mixamoAssets/Great Sword Slash.fbx)
+[2019.05.19-22.58.42:547][510]LogFbx: Loading FBX Scene from ../../../../../../Users/alexs/Desktop/mixamoAssets/Great Sword Slash.fbx
+[2019.05.19-22.58.42:602][510]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.19-22.58.52:029][510]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.19-22.59.24:640][121]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/alexs/Desktop/mixamoAssets/Great Sword Slash.fbx)
+[2019.05.19-22.59.24:667][121]LogFbx: Loading FBX Scene from ../../../../../../Users/alexs/Desktop/mixamoAssets/Great Sword Slash.fbx
+[2019.05.19-22.59.24:713][121]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.19-22.59.28:767][121]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.19-22.59.28:805][121]LogFbx: =================================================
+[2019.05.19-22.59.28:805][121]LogFbx: Dumping Node START [Guard02] 
+[2019.05.19-22.59.28:805][121]LogFbx: 	Total Deformer Count -1061571368.
+[2019.05.19-22.59.28:805][121]LogFbx: 		[Node 1] Skin Guard02 (Type Skin).
+[2019.05.19-22.59.28:805][121]LogFbx: =================================================
+[2019.05.19-22.59.28:805][121]LogFbx: 	Attribute (Guard02) Type (4).
+[2019.05.19-22.59.28:805][121]LogFbx: 		[Node Attribute Child 1] Guard02 (Type Mesh).
+[2019.05.19-22.59.28:805][121]LogFbx: Dumping Node END [Guard02]
+[2019.05.19-22.59.28:806][121]LogFbx: =================================================
+[2019.05.19-22.59.28:806][121]LogFbx: Dumping Node START [Guard02] 
+[2019.05.19-22.59.28:806][121]LogFbx: 	Total Deformer Count -1061583016.
+[2019.05.19-22.59.28:806][121]LogFbx: 		[Node 1] Skin Guard02 (Type Skin).
+[2019.05.19-22.59.28:806][121]LogFbx: =================================================
+[2019.05.19-22.59.28:806][121]LogFbx: 	Attribute (Guard02) Type (4).
+[2019.05.19-22.59.28:806][121]LogFbx: 		[Node Attribute Child 1] Guard02 (Type Mesh).
+[2019.05.19-22.59.28:806][121]LogFbx: Dumping Node END [Guard02]
+[2019.05.19-22.59.28:807][121]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Guard02 : The relative matrices do not match
+[2019.05.19-22.59.28:807][121]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.05.19-22.59.28:807][121]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Guard02
+[2019.05.19-22.59.28:807][121]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.05.19-22.59.28:987][121]LogMaterial: Warning: Material /Game/swordPlayer/Guard_02.Guard_02 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.19-22.59.28:991][121]LogMaterial: Display: Missing cached shader map for material Guard_02, compiling. 
+[2019.05.19-22.59.29:075][121]LogLinker: Can't find file '/Game/swordPlayer/Guard_02__diffuse'
+[2019.05.19-22.59.29:075][121]LogLinker: Can't find file '/Game/swordPlayer/Guard_02__diffuse'
+[2019.05.19-22.59.29:116][121]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.19-22.59.29:116][121]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.19-22.59.29:116][121]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.19-22.59.29:116][121]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.19-22.59.29:121][121]LogTexture: Display: Building textures: Guard_02__diffuse (AutoDXT, 1024X1024)
+[2019.05.19-22.59.29:661][121]LogLinker: Can't find file '/Game/swordPlayer/Guard_02__specular'
+[2019.05.19-22.59.29:661][121]LogLinker: Can't find file '/Game/swordPlayer/Guard_02__specular'
+[2019.05.19-22.59.29:705][121]LogTexture: Display: Building textures: Guard_02__specular (AutoDXT, 1024X1024)
+[2019.05.19-22.59.30:053][121]LogLinker: Can't find file '/Game/swordPlayer/Guard_02__normal'
+[2019.05.19-22.59.30:053][121]LogLinker: Can't find file '/Game/swordPlayer/Guard_02__normal'
+[2019.05.19-22.59.30:105][121]LogTexture: Display: Building textures: Guard_02__normal (BC5, 1024X1024)
+[2019.05.19-22.59.30:212][121]LogMaterial: Display: Missing cached shader map for material Guard_02, compiling. 
+[2019.05.19-22.59.30:265][121]LogFbx: Triangulating skeletal mesh Guard02
+[2019.05.19-22.59.30:578][121]LogFbx: Warning: Bones digested - 41  Depth of hierarchy - 12
+[2019.05.19-22.59.30:721][121]LogSkeletalMesh: Section 0: 2797 vertices, 34 active bones
+[2019.05.19-22.59.30:722][121]LogSkeletalMesh: Section 0: Material=0, 4531 triangles
+[2019.05.19-22.59.30:742][121]LogSkeletalMesh: Building Skeletal Mesh Great_Sword_Slash...
+[2019.05.19-22.59.30:751][121]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/swordPlayer/Great_Sword_Slash.Great_Sword_Slash
+[2019.05.19-22.59.30:757][121]LogLinker: Can't find file '/Game/swordPlayer/Great_Sword_Slash_Skeleton'
+[2019.05.19-22.59.30:758][121]LogLinker: Can't find file '/Game/swordPlayer/Great_Sword_Slash_Skeleton'
+[2019.05.19-22.59.30:763][121]LogLinker: Can't find file '/Game/swordPlayer/Great_Sword_Slash_PhysicsAsset'
+[2019.05.19-22.59.30:763][121]LogLinker: Can't find file '/Game/swordPlayer/Great_Sword_Slash_PhysicsAsset'
+[2019.05.19-22.59.30:784][121]LogFbx: =================================================
+[2019.05.19-22.59.30:784][121]LogFbx: Dumping Node START [Guard02] 
+[2019.05.19-22.59.30:784][121]LogFbx: 	Total Deformer Count -341932312.
+[2019.05.19-22.59.30:784][121]LogFbx: 		[Node 1] Skin Guard02 (Type Skin).
+[2019.05.19-22.59.30:784][121]LogFbx: =================================================
+[2019.05.19-22.59.30:784][121]LogFbx: 	Attribute (Guard02) Type (4).
+[2019.05.19-22.59.30:784][121]LogFbx: 		[Node Attribute Child 1] Guard02 (Type Mesh).
+[2019.05.19-22.59.30:784][121]LogFbx: Dumping Node END [Guard02]
+[2019.05.19-22.59.30:786][121]LogFbx: =================================================
+[2019.05.19-22.59.30:787][121]LogFbx: Dumping Node START [Guard02] 
+[2019.05.19-22.59.30:787][121]LogFbx: 	Total Deformer Count -341932200.
+[2019.05.19-22.59.30:787][121]LogFbx: 		[Node 1] Skin Guard02 (Type Skin).
+[2019.05.19-22.59.30:787][121]LogFbx: =================================================
+[2019.05.19-22.59.30:787][121]LogFbx: 	Attribute (Guard02) Type (4).
+[2019.05.19-22.59.30:787][121]LogFbx: 		[Node Attribute Child 1] Guard02 (Type Mesh).
+[2019.05.19-22.59.30:787][121]LogFbx: Dumping Node END [Guard02]
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(0) Hips
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(1) Spine
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(2) Spine1
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(3) Spine2
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(4) Neck
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(5) Head
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.05.19-22.59.30:787][121]LogFbx: SortedLinks :(8) LeftArm
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(10) LeftHand
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(15) LeftHandThumb1
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(16) LeftHandThumb2
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(17) LeftHandThumb3
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(18) LeftHandThumb4
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(19) RightShoulder
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(20) RightArm
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(21) RightForeArm
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(22) RightHand
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(23) RightHandIndex1
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(24) RightHandIndex2
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(25) RightHandIndex3
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(26) RightHandIndex4
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(27) RightHandThumb1
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(28) RightHandThumb2
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(29) RightHandThumb3
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(30) RightHandThumb4
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(31) LeftUpLeg
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(32) LeftLeg
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(33) LeftFoot
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(34) LeftToeBase
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(35) LeftToe_End
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(36) RightUpLeg
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(37) RightLeg
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(38) RightFoot
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(39) RightToeBase
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(40) RightToe_End
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(0) Hips
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(1) Spine
+[2019.05.19-22.59.30:788][121]LogFbx: SortedLinks :(2) Spine1
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(3) Spine2
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(4) Neck
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(5) Head
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(8) LeftArm
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(10) LeftHand
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(15) LeftHandThumb1
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(16) LeftHandThumb2
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(17) LeftHandThumb3
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(18) LeftHandThumb4
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(19) RightShoulder
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(20) RightArm
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(21) RightForeArm
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(22) RightHand
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(23) RightHandIndex1
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(24) RightHandIndex2
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(25) RightHandIndex3
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(26) RightHandIndex4
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(27) RightHandThumb1
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(28) RightHandThumb2
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(29) RightHandThumb3
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(30) RightHandThumb4
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(31) LeftUpLeg
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(32) LeftLeg
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(33) LeftFoot
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(34) LeftToeBase
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(35) LeftToe_End
+[2019.05.19-22.59.30:789][121]LogFbx: SortedLinks :(36) RightUpLeg
+[2019.05.19-22.59.30:790][121]LogFbx: SortedLinks :(37) RightLeg
+[2019.05.19-22.59.30:790][121]LogFbx: SortedLinks :(38) RightFoot
+[2019.05.19-22.59.30:790][121]LogFbx: SortedLinks :(39) RightToeBase
+[2019.05.19-22.59.30:790][121]LogFbx: SortedLinks :(40) RightToe_End
+[2019.05.19-22.59.30:791][121]LogFbx: Parsing AnimStack Take 001
+[2019.05.19-22.59.30:792][121]LogLinker: Can't find file '/Game/swordPlayer/Great_Sword_Slash_Anim_Take_001'
+[2019.05.19-22.59.30:792][121]LogLinker: Can't find file '/Game/swordPlayer/Great_Sword_Slash_Anim_Take_001'
+[2019.05.19-22.59.33:441][121]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.19-22.59.34:219][121]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.19-22.59.35:384][121]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.19-22.59.35:881][121]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/swordPlayer/Great_Sword_Slash_Anim_Take_001.Great_Sword_Slash_Anim_Take_001
+[2019.05.19-22.59.35:882][121]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Great_Sword_Slash_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.19-22.59.35:928][121]LogFbx: Parsing AnimStack mixamo.com
+[2019.05.19-22.59.35:928][121]LogLinker: Can't find file '/Game/swordPlayer/Great_Sword_Slash_Anim_mixamo_com'
+[2019.05.19-22.59.35:929][121]LogLinker: Can't find file '/Game/swordPlayer/Great_Sword_Slash_Anim_mixamo_com'
+[2019.05.19-22.59.36:384][121]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.19-22.59.37:237][121]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.19-22.59.39:683][121]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.19-22.59.48:492][121]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/swordPlayer/Great_Sword_Slash_Anim_mixamo_com.Great_Sword_Slash_Anim_mixamo_com
+[2019.05.19-22.59.48:498][121]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Great_Sword_Slash_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.19-22.59.48:571][121]LogSkeletalMesh: Building Skeletal Mesh Great_Sword_Slash...
+[2019.05.19-22.59.48:577][121]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/swordPlayer/Great_Sword_Slash.Great_Sword_Slash
+[2019.05.19-22.59.48:587][121]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.19-22.59.48:598][121]LogSkeletalMesh: Building Skeletal Mesh Great_Sword_Slash...
+[2019.05.19-22.59.48:608][121]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/swordPlayer/Great_Sword_Slash.Great_Sword_Slash
+[2019.05.19-22.59.52:939][367]LogSlate: Window 'Message Log' being destroyed
+[2019.05.19-22.59.52:945][367]LogSlate: Window 'Message Log' being destroyed
+[2019.05.19-22.59.57:773][651]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/swordPlayer/Great_Sword_Slash.Great_Sword_Slash
+[2019.05.19-22.59.57:783][651]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.05.19-22.59.58:042][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.19-22.59.58:050][651]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.19-22.59.58:087][651]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.19-22.59.58:444][651]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.19-22.59.58:486][651]LogRenderer: Reallocating scene render targets to support 1208x884 Format 9 NumSamples 1 (Frame:1).
+[2019.05.19-23.00.02:378][859]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/swordPlayer/Great_Sword_Slash_Anim_Take_001.Great_Sword_Slash_Anim_Take_001
+[2019.05.19-23.00.02:394][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.19-23.00.02:427][859]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.19-23.00.02:865][859]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.19-23.00.12:786][417]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetColumnView [SAssetView.cpp(1772)].
+[2019.05.19-23.00.12:838][417]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Great_Sword_Slash_Anim_Take_0013891DF9C44725BD0CE0FD5964328E241.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/Great_Sword_Slash_Anim_Take_001.uasset'
+[2019.05.19-23.00.18:025][718]LogSlate: Window 'Great_Sword_Slash_Anim_Take_001' being destroyed
+[2019.05.19-23.00.18:036][718]LogSlate: Window 'Great_Sword_Slash_Anim_Take_001' being destroyed
+[2019.05.19-23.00.41:574][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.05.19-23.00.45:019][ 65]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.19-23.00.45:025][ 65]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/swordPlayer/swordWalkRight.swordWalkRight
+	Asset Name: /Game/swordPlayer/swordWalkBackwards.swordWalkBackwards
+	Asset Name: /Game/swordPlayer/swordWalkForwards.swordWalkForwards
+	Asset Name: /Game/swordPlayer/swordWalkLeft.swordWalkLeft
+[2019.05.19-23.00.46:300][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.05.19-23.00.46:330][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.05.19-23.00.46:360][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.05.19-23.00.46:388][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.05.19-23.00.46:418][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.05.19-23.00.46:443][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
