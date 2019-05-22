@@ -1216,3 +1216,213 @@ Make sure 'BP_FPSword_C' has been compiled for  Set isJumping
 [2019.05.22-00.30.35:511][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.05.22-00.30.36:232][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2019.05.22-00.30.36:956][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.30.51:757][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.40.48:462][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.22-00.40.48:486][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.22-00.40.48:486][963]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.22-00.40.48:492][963]LogPlayLevel: [PlayLevel] Compiling BP_FPSwordPA before play...
+[2019.05.22-00.40.48:741][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.05.22-00.40.48:741][963]LogPlayLevel: PlayLevel: Blueprint regeneration took 255 ms (1 blueprints)
+[2019.05.22-00.40.48:741][963]PIE: New page: PIE session: playerTestLevel (May 21, 2019, 12:40:48 PM)
+[2019.05.22-00.40.48:741][963]LogPlayLevel: Creating play world package: /Game/swordPlayer/UEDPIE_0_playerTestLevel
+[2019.05.22-00.40.48:743][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002271s)
+[2019.05.22-00.40.48:744][963]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.22-00.40.48:744][963]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2019.05.22-00.40.48:744][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/swordPlayer/playerTestLevel.playerTestLevel to /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel (0.003114s)
+[2019.05.22-00.40.48:781][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.05.22-00.40.48:805][963]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.22-00.40.48:822][963]LogInit: FAudioDevice initialized.
+[2019.05.22-00.40.48:851][963]LogLoad: Game class is 'swordGameMode_C'
+[2019.05.22-00.40.48:852][963]LogWorld: Bringing World /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel up for play (max tick rate 60) at 2019.05.21-18.40.48
+[2019.05.22-00.40.48:852][963]LogWorld: Bringing up level for play took: 0.000688
+[2019.05.22-00.40.48:868][963]PIE: Play in editor start time for /Game/swordPlayer/UEDPIE_0_playerTestLevel -0.326
+[2019.05.22-00.40.48:868][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.22-00.40.50:621][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.22-00.40.50:621][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.22-00.40.50:651][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.22-00.40.50:652][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.22-00.40.50:691][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.22-00.40.50:695][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.05.22-00.40.50:736][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.22-00.41.03:672][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.41.09:186][465]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/swordPlayer/castleGuard/Great_Sword_Slash_Overhand.Great_Sword_Slash_Overhand
+[2019.05.22-00.41.09:193][465]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.05.22-00.41.09:207][465]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.22-00.41.09:239][465]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.22-00.41.10:134][465]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.22-00.42.31:303][203]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2019.05.22-00.42.31:303][203]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/swordPlayer/playerTestLevel' took 0.083
+[2019.05.22-00.42.31:304][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/swordPlayer/BP_FPSwordPA] ([1] browsable assets)...
+[2019.05.22-00.42.31:318][203]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/swordPlayer/BP_FPSwordPA.BP_FPSwordPA]
+[2019.05.22-00.42.31:318][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/swordPlayer/BP_FPSwordPA]
+[2019.05.22-00.42.31:452][203]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/BP_FPSwordPA_Auto15B43683D4BE892A353EFAC8CE9F6DBB3.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Autosaves/Game/swordPlayer/BP_FPSwordPA_Auto1.uasset'
+[2019.05.22-00.42.31:453][203]LogFileHelpers: Auto-saving content packages took 0.149
+[2019.05.22-00.43.12:341][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.45.29:543][932]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/alexs/Desktop/mixamoAssets/Great Sword Slash Overhand Mirrored.fbx)
+[2019.05.22-00.45.29:557][932]LogFbx: Loading FBX Scene from ../../../../../../Users/alexs/Desktop/mixamoAssets/Great Sword Slash Overhand Mirrored.fbx
+[2019.05.22-00.45.29:576][932]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.22-00.45.31:056][932]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(0) Hips
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(1) Spine
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(2) Spine1
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(3) Spine2
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(4) Neck
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(5) Head
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(8) LeftArm
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(10) LeftHand
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(15) LeftHandThumb1
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(16) LeftHandThumb2
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(17) LeftHandThumb3
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(18) LeftHandThumb4
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(19) RightShoulder
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(20) RightArm
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(21) RightForeArm
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(22) RightHand
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(23) RightHandIndex1
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(24) RightHandIndex2
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(25) RightHandIndex3
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(26) RightHandIndex4
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(27) RightHandThumb1
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(28) RightHandThumb2
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(29) RightHandThumb3
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(30) RightHandThumb4
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(31) LeftUpLeg
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(32) LeftLeg
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(33) LeftFoot
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(34) LeftToeBase
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(35) LeftToe_End
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(36) RightUpLeg
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(37) RightLeg
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(38) RightFoot
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(39) RightToeBase
+[2019.05.22-00.45.31:085][932]LogFbx: SortedLinks :(40) RightToe_End
+[2019.05.22-00.45.31:086][932]LogFbx: Parsing AnimStack mixamo.com
+[2019.05.22-00.45.31:088][932]LogLinker: Can't find file '/Game/swordPlayer/castleGuard/Great_Sword_Slash_Overhand_Mirrored'
+[2019.05.22-00.45.31:088][932]LogLinker: Can't find file '/Game/swordPlayer/castleGuard/Great_Sword_Slash_Overhand_Mirrored'
+[2019.05.22-00.45.36:372][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/swordPlayer/castleGuard/Great_Sword_Slash_Overhand_Mirrored.Great_Sword_Slash_Overhand_Mirrored
+[2019.05.22-00.45.36:375][932]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Great_Sword_Slash_Overhand_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.22-00.45.38:784][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.05.22-00.45.38:798][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/swordPlayer/BP_FPSwordPA" FILE="../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/BP_FPSwordPA.uasset" SILENT=true
+[2019.05.22-00.45.38:879][ 61]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/BP_FPSwordPAFA730CB84AAF29BBCD393F9C57906FFD.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/BP_FPSwordPA.uasset'
+[2019.05.22-00.45.38:929][ 61]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Great_Sword_Slash_Overhand_MirroA976148746338A64F5E871B5A1BAD2D1.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/castleGuard/Great_Sword_Slash_Overhand_Mirrored.uasset'
+[2019.05.22-00.45.41:861][230]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/blenderSwords/longSwordModel.longSwordModel
+[2019.05.22-00.45.41:941][230]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.05.22-00.45.42:503][231]LogRenderer: Reallocating scene render targets to support 1432x920 Format 9 NumSamples 1 (Frame:1).
+[2019.05.22-00.46.51:686][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.46.52:747][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.05.22-00.46.53:187][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.47.09:707][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.47.12:649][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.47.13:832][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.47.14:951][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.47.16:034][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.47.30:797][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.47.45:321][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.47.50:617][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.47.54:820][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.48.04:837][732]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.22-00.48.04:857][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.22-00.48.04:857][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.22-00.48.04:857][732]PIE: New page: PIE session: playerTestLevel (May 21, 2019, 12:48:04 PM)
+[2019.05.22-00.48.04:857][732]LogPlayLevel: Creating play world package: /Game/swordPlayer/UEDPIE_0_playerTestLevel
+[2019.05.22-00.48.04:860][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002526s)
+[2019.05.22-00.48.04:861][732]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.22-00.48.04:861][732]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2019.05.22-00.48.04:861][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/swordPlayer/playerTestLevel.playerTestLevel to /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel (0.004047s)
+[2019.05.22-00.48.04:919][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.05.22-00.48.04:944][732]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.22-00.48.04:959][732]LogInit: FAudioDevice initialized.
+[2019.05.22-00.48.04:989][732]LogLoad: Game class is 'swordGameMode_C'
+[2019.05.22-00.48.04:990][732]LogWorld: Bringing World /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel up for play (max tick rate 60) at 2019.05.21-18.48.04
+[2019.05.22-00.48.04:990][732]LogWorld: Bringing up level for play took: 0.000495
+[2019.05.22-00.48.05:005][732]PIE: Play in editor start time for /Game/swordPlayer/UEDPIE_0_playerTestLevel -0.188
+[2019.05.22-00.48.05:005][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.22-00.48.47:614][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.22-00.48.47:615][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.22-00.48.47:647][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.22-00.48.47:647][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.22-00.48.47:690][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.22-00.48.47:695][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.05.22-00.48.47:716][287]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.05.22-00.48.48:240][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.48.51:947][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.49.10:303][636]LogEditorTransaction: Undo Translate Collision
+[2019.05.22-00.49.10:459][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.22-00.49.12:572][758]LogEditorTransaction: Undo Create Convex Collision
+[2019.05.22-00.49.12:742][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.22-00.49.13:849][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.49.20:906][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.49.31:940][905]Cmd: TRANSACTION UNDO
+[2019.05.22-00.49.31:940][905]LogEditorTransaction: Undo Create Sphere Collision
+[2019.05.22-00.49.32:105][905]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.22-00.49.44:109][621]LogEditorTransaction: Undo Scale Collision
+[2019.05.22-00.49.44:281][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.22-00.49.44:429][627]LogEditorTransaction: Undo Translate Collision
+[2019.05.22-00.49.44:592][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.22-00.49.44:945][646]LogEditorTransaction: Undo Create Convex Collision
+[2019.05.22-00.49.45:120][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.22-00.49.45:853][688]LogEditorTransaction: Undo Remove Collision
+[2019.05.22-00.49.46:029][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.22-00.49.48:298][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.49.55:182][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.49.55:265][240]Cmd: MODE SCALEGRID=0
+[2019.05.22-00.49.56:221][296]Cmd: MODE GRID=0
+[2019.05.22-00.49.56:642][321]Cmd: MODE ROTGRID=0
+[2019.05.22-00.51.00:873][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.01:664][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.05.22-00.51.01:672][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.01:734][201]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/longSwordModelC673B4434F680160020B079D3294F9EF.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/blenderSwords/longSwordModel.uasset'
+[2019.05.22-00.51.02:850][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.51.20:170][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.24:742][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.27:016][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.28:416][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.29:300][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.30:133][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.46:488][877]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.48:122][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.51.57:613][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-00.53.04:770][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.54.06:976][529]LogStaticMesh: Building static mesh longSwordModel...
+[2019.05.22-00.54.06:976][529]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.22-00.54.06:981][529]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.05.22-00.54.06:991][529]LogStaticMesh: Built static mesh [0.01s] /Game/blenderSwords/longSwordModel.longSwordModel
+[2019.05.22-00.54.36:433][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.54.38:314][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.05.22-00.54.38:322][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-00.54.38:327][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/swordPlayer/BP_FPSwordPA" FILE="../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/BP_FPSwordPA.uasset" SILENT=true
+[2019.05.22-00.54.38:415][375]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/BP_FPSwordPA32924B714FA1937D8C64F0A582C528F0.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/BP_FPSwordPA.uasset'
+[2019.05.22-00.54.38:465][375]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/longSwordModel5CB911E14F5043D22B172E97207FE078.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/blenderSwords/longSwordModel.uasset'
+[2019.05.22-00.59.33:149][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.01.32:776][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.01.52:182][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-01.02.24:332][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.02.24:433][282]Cmd: MODE SCALEGRID=1
+[2019.05.22-01.02.26:103][382]Cmd: MODE SCALEGRID=0
+[2019.05.22-01.02.50:219][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.02.51:878][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.05.22-01.02.51:918][920]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/longSwordModelD6863DB14871E3D94BDAC990500F1DFA.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/blenderSwords/longSwordModel.uasset'
+[2019.05.22-01.02.57:955][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.03.32:974][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.16.28:733][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.22-01.16.31:511][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.22-01.16.37:674][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-01.16.38:478][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.05.22-01.16.38:489][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-01.16.38:543][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.05.22-01.16.38:749][303]LogSavePackage: Moving '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/playerTestLevel5C6767364E7396F335A1A482149AD5CC.tmp' to '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/playerTestLevel.umap'
+[2019.05.22-01.16.38:786][303]LogFileHelpers: Saving map 'playerTestLevel' took 0.290
+[2019.05.22-01.16.45:060][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.16.59:746][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.18.25:278][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-01.22.44:268][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-01.22.46:833][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.22-01.22.49:440][944]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.22-01.23.21:899][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
