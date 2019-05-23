@@ -1,0 +1,1081 @@
+﻿Log file open, 05/23/19 13:09:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SwordGame2019
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.275770
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Acr0nymm -epicuserid=088b2acb5f644e8882713f7f2793d1e5 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.23-19.09.35:975][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.23-19.09.35:975][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.23-19.09.35:975][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.23-19.09.35:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.23-19.09.35:976][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.23-19.09.35:976][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.23-19.09.35:978][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.23-19.09.35:978][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.23-19.09.35:979][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.23-19.09.35:979][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.23-19.09.35:979][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.23-19.09.35:990][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.23-19.09.35:990][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.23-19.09.35:990][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.23-19.09.35:990][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Scalability.ini]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.05.23-19.09.35:991][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.23-19.09.35:992][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.23-19.09.35:992][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.23-19.09.35:992][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Config/Windows/Engine.ini]
+[2019.05.23-19.09.35:992][  0]LogInit: Computer: LAPTOP-PQO8S6FS
+[2019.05.23-19.09.35:992][  0]LogInit: User: alexs
+[2019.05.23-19.09.35:992][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.23-19.09.35:992][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.23-19.09.35:992][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.23-19.09.35:992][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.23-19.09.35:992][  0]LogMemory: Process Physical Memory: 98.95 MB used, 98.95 MB peak
+[2019.05.23-19.09.35:992][  0]LogMemory: Process Virtual Memory: 93.15 MB used, 93.15 MB peak
+[2019.05.23-19.09.35:992][  0]LogMemory: Physical Memory: 8056.76 MB used,  8210.84 MB free, 16267.60 MB total
+[2019.05.23-19.09.35:992][  0]LogMemory: Virtual Memory: 4661.36 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.05.23-19.09.36:011][  0]LogInit: Using OS detected language (en-US).
+[2019.05.23-19.09.36:011][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.23-19.09.36:012][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.23-19.09.36:150][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.23-19.09.36:188][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.23-19.09.36:188][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.23-19.09.36:358][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.23-19.09.36:358][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.23-19.09.36:424][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.05.23-19.09.36:424][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.23-19.09.36:434][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.23-19.09.36:434][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.23-19.09.36:436][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.23-19.09.36:436][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.23-19.09.36:436][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.23-19.09.36:450][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.23-19.09.36:451][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.23-19.09.36:451][  0]LogWindows: EnumDisplayDevices:
+[2019.05.23-19.09.36:451][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.23-19.09.36:451][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.23-19.09.36:451][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.23-19.09.36:452][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.23-19.09.36:452][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.05.23-19.09.36:452][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.05.23-19.09.36:452][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.05.23-19.09.36:452][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.05.23-19.09.36:452][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.05.23-19.09.36:498][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.23-19.09.36:507][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.23-19.09.36:507][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.23-19.09.36:507][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.23-19.09.36:515][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.23-19.09.36:795][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.23-19.09.36:809][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.23-19.09.36:822][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.23-19.09.36:839][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.23-19.09.36:854][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.23-19.09.36:867][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.23-19.09.36:880][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.23-19.09.36:894][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.23-19.09.36:900][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.23-19.09.36:983][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.23-19.09.36:985][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.23-19.09.37:032][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.23-19.09.37:032][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.23-19.09.37:058][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.23-19.09.37:058][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.23-19.09.37:071][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.23-19.09.37:083][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.23-19.09.37:097][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.23-19.09.37:110][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.23-19.09.37:154][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.23-19.09.37:154][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.23-19.09.37:154][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.23-19.09.37:162][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.23-19.09.37:211][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Intermediate/Shaders/WorkingDirectory/22664/).
+[2019.05.23-19.09.37:211][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexs/AppData/Local/Temp/UnrealShaderWorkingDir/C527D34244F7FA967A336A8CF863B3D6/'.
+[2019.05.23-19.09.37:214][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.23-19.09.37:214][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.23-19.09.37:214][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.23-19.09.37:768][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.23-19.09.37:815][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/alexs/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.23-19.09.37:815][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexs/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.23-19.09.37:815][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.23-19.09.37:815][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.23-19.09.37:815][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.23-19.09.37:815][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.23-19.09.37:827][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.23-19.09.37:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.23-19.09.37:827][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.23-19.09.37:840][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexs/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.23-19.09.37:840][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.23-19.09.37:840][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.23-19.09.37:861][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.23-19.09.37:862][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.23-19.09.37:863][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.23-19.09.37:943][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.05.23-19.09.38:247][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.23-19.09.38:301][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.23-19.09.38:301][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.23-19.09.38:301][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.23-19.09.38:301][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.23-19.09.38:301][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.23-19.09.38:389][  0]LogNetVersion: SwordGame2019 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 380501120)
+[2019.05.23-19.09.38:768][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042286 seconds
+[2019.05.23-19.09.38:775][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.23-19.09.38:775][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.23-19.09.38:775][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.23-19.09.39:530][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.23-19.09.39:543][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.23-19.09.39:641][  0]SourceControl: Source control is disabled
+[2019.05.23-19.09.39:641][  0]SourceControl: Source control is disabled
+[2019.05.23-19.09.39:642][  0]SourceControl: Source control is disabled
+[2019.05.23-19.09.39:643][  0]SourceControl: Source control is disabled
+[2019.05.23-19.09.39:706][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.23-19.09.39:771][  0]LogOcInput: OculusInput pre-init called
+[2019.05.23-19.09.40:399][  0]LogEngine: Initializing Engine...
+[2019.05.23-19.09.40:399][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.23-19.09.40:400][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.23-19.09.40:607][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.23-19.09.40:622][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.23-19.09.40:636][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-19.09.41:107][  0]LogInit: FAudioDevice initialized.
+[2019.05.23-19.09.41:108][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.23-19.09.41:268][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/alexs/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.23-19.09.41:279][  0]LogInit: Texture streaming: Enabled
+[2019.05.23-19.09.41:298][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.23-19.09.41:318][  0]LogInit: Transaction tracking system initialized
+[2019.05.23-19.09.41:339][  0]BlueprintLog: New page: Editor Load
+[2019.05.23-19.09.41:420][  0]LocalizationService: Localization service is disabled
+[2019.05.23-19.09.42:149][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/' took 0.02s
+[2019.05.23-19.09.42:149][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.23-19.09.42:149][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.23-19.09.42:321][  0]SourceControl: Source control is disabled
+[2019.05.23-19.09.42:322][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/swordPlayer/playerTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.23-19.09.42:322][  0]LightingResults: New page: Lighting Build
+[2019.05.23-19.09.42:324][  0]MapCheck: New page: Map Check
+[2019.05.23-19.09.42:324][  0]LightingResults: New page: Lighting Build
+[2019.05.23-19.09.42:352][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.05.23-19.09.42:579][  0]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.23-19.09.42:587][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.23-19.09.42:614][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.05.23-19.09.42:614][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.23-19.09.42:614][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2019.05.23-19.09.42:614][  0]LogFileHelpers: Loading map 'playerTestLevel' took 0.292
+[2019.05.23-19.09.42:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.09.42:738][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.09.42:747][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.09.42:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.09.42:763][  0]LogCollectionManager: Loaded 0 collections in 0.002310 seconds
+[2019.05.23-19.09.42:779][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Saved/Collections/' took 0.01s
+[2019.05.23-19.09.42:779][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/Developers/alexs/Collections/' took 0.00s
+[2019.05.23-19.09.42:779][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/Collections/' took 0.00s
+[2019.05.23-19.09.42:779][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.23-19.09.42:787][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2732 classes and 659 folders.
+[2019.05.23-19.09.42:793][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.23-19.09.42:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.23-19.09.42:830][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.23-19.09.42:835][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.23-19.09.43:854][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.23-19.09.43:874][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.23-19.09.43:877][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.23-19.09.43:882][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.23-19.09.44:004][  0]LogRenderer: Reallocating scene render targets to support 964x416 Format 9 NumSamples 1 (Frame:1).
+[2019.05.23-19.09.44:132][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.23-19.09.44:132][  0]LogLoad: (Engine Initialization) Total time: 9.72 seconds
+[2019.05.23-19.09.44:132][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.23-19.09.44:189][  0]LogAssetRegistry: Asset discovery search completed in 6.2673 seconds
+[2019.05.23-19.09.44:192][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.23-19.09.44:192][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000114 seconds (updated 0 objects)
+[2019.05.23-19.09.44:193][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.05.23-19.09.44:229][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.23-19.09.44:324][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01A3
+[2019.05.23-19.09.44:324][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01D9
+[2019.05.23-19.09.44:324][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:026E
+[2019.05.23-19.09.45:207][ 53]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.23-19.09.45:209][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-19.09.45:214][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/swordPlayer/BP_FPSwordAlex.BP_FPSwordAlex
+[2019.05.23-19.09.45:370][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Blades/Sword_Blade_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:371][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:371][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:372][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:374][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Blades/Sword_Blade_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:374][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Blade_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:375][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:375][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:376][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:377][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:377][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Blade_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:378][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:378][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:378][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:379][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:379][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Blade_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:380][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:380][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:381][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:382][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Blades/sword_blade_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:384][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:384][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:385][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:386][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:387][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:387][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:388][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Blade_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:389][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:389][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:391][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:392][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:392][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Blades/Blades_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:393][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:394][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:395][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:395][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:396][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:397][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:397][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:398][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:399][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:400][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:400][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:400][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:401][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:402][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:403][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:403][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:404][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:405][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:405][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:406][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:407][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:408][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:408][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:408][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:409][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/sword_crossguard_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:410][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:411][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:411][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:412][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:413][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:413][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:414][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:415][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_Crossguard_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:416][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:416][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:416][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:418][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:419][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:420][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:420][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:421][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Crossguards/Sword_crossguard_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:422][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:422][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:423][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Crossguards/Crossguards_09_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:424][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:425][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:425][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:425][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:426][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:428][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:429][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:429][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:430][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:431][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:432][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:433][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:433][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:434][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/sword_hilt_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:435][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:436][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:436][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:436][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:437][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:438][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:439][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:439][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_07_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:440][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:441][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:442][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:442][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:442][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Hilts/Sword_hilt_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:443][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:444][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:444][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Hilts/Hilts_09_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:445][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:445][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:447][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:447][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:448][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_01_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:449][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_010.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:449][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_10.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:450][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:450][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:450][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_10_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:450][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_011.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:450][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_11.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:452][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:452][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:452][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_11_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:454][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_012.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:454][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_12.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:455][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:455][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:455][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_12_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:457][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_013.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:457][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_13.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:457][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:457][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:457][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_13_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:458][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/sword_pommel_014.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:459][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:459][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:460][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_14_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:460][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:461][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:461][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:462][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:463][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_02_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:463][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:464][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:464][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:465][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:465][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_03_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:466][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:466][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_04.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:467][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:467][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:468][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_04_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:469][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:470][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:470][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:471][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:471][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_05_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:472][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_Pommel_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:472][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_06.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:473][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:473][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:474][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_06_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:474][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:475][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:475][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_07_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:476][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:476][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_08.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:477][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_normal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:477][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_PSED.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:478][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Textures/Swords/Pommels/Pommel_08_RAOD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:479][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Meshes/Swords/Pommels/Sword_pommel_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:479][ 53]LogLinker: Warning: Asset '../../../../../../Users/alexs/Documents/2019SwordGame/2019SwordGame/SwordGame2019/Content/ModularWeapons/Materials/MI_Sword_Pommel_09.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.23-19.09.45:633][ 53]LogClass: Warning: Enum '/Game/ModularWeapons/Data/MaterialSlot.MaterialSlot' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.23-19.09.45:755][ 53]LogClass: Warning: Enum '/Game/ModularWeapons/Data/MeleeCollisionType.MeleeCollisionType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.05.23-19.09.45:765][ 53]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.05.23-19.09.46:548][ 53]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/blenderSwords/longSwordModel.longSwordModel
+[2019.05.23-19.09.46:552][ 53]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.05.23-19.09.46:943][ 53]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim
+[2019.05.23-19.09.46:958][ 53]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.05.23-19.09.46:959][ 53]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.23-19.09.46:968][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.23-19.09.46:968][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01A3
+[2019.05.23-19.09.46:968][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01D9
+[2019.05.23-19.09.46:968][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:026E
+[2019.05.23-19.09.46:970][ 53]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.05.23-19.09.46:971][ 53]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.23-19.09.47:240][ 53]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.23-19.09.47:467][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/swordPlayer/BP_FPSwordPA.BP_FPSwordPA
+[2019.05.23-19.09.47:785][ 53]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/swordPlayer/castleGuard/Great_Sword_Slash.Great_Sword_Slash
+[2019.05.23-19.09.47:788][ 53]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.05.23-19.09.47:797][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.23-19.09.47:823][ 53]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.23-19.09.48:356][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01A3
+[2019.05.23-19.09.48:356][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01D9
+[2019.05.23-19.09.48:356][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:026E
+[2019.05.23-19.09.48:520][ 53]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.23-19.09.48:538][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01A3
+[2019.05.23-19.09.48:539][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01D9
+[2019.05.23-19.09.48:539][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:026E
+[2019.05.23-19.09.48:555][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01A3
+[2019.05.23-19.09.48:555][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01D9
+[2019.05.23-19.09.48:555][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:026E
+[2019.05.23-19.09.48:572][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01A3
+[2019.05.23-19.09.48:572][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_GuardAnim_C /Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_GuardAnim_C_0
+	Function /Game/swordPlayer/castleGuard/BP_GuardAnim.BP_GuardAnim_C:ExecuteUbergraph_BP_GuardAnim:01D9
+[2019.05.23-19.10.03:057][925]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-19.10.03:076][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.03:076][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-19.10.03:077][925]PIE: New page: PIE session: playerTestLevel (May 23, 2019, 7:10:03 AM)
+[2019.05.23-19.10.03:089][925]LogPlayLevel: Creating play world package: /Game/swordPlayer/UEDPIE_0_playerTestLevel
+[2019.05.23-19.10.03:092][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002936s)
+[2019.05.23-19.10.03:099][925]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.23-19.10.03:099][925]LogPlayLevel: PIE: World Init took: (0.007149s)
+[2019.05.23-19.10.03:099][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/swordPlayer/playerTestLevel.playerTestLevel to /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel (0.010337s)
+[2019.05.23-19.10.03:168][925]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2019.05.23-19.10.03:177][925]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-19.10.03:197][925]LogInit: FAudioDevice initialized.
+[2019.05.23-19.10.03:239][925]LogLoad: Game class is 'swordGameMode_C'
+[2019.05.23-19.10.03:242][925]LogWorld: Bringing World /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel up for play (max tick rate 60) at 2019.05.23-13.10.03
+[2019.05.23-19.10.03:243][925]LogWorld: Bringing up level for play took: 0.002869
+[2019.05.23-19.10.03:258][925]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.05.23-19.10.03:260][925]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.05.23-19.10.03:260][925]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.23-19.10.03:263][925]PIE: Play in editor start time for /Game/swordPlayer/UEDPIE_0_playerTestLevel 0.087
+[2019.05.23-19.10.03:263][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.05:665][ 49]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.05:665][ 49]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.05:665][ 49]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.06:248][ 84]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.10.06:797][117]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.06:797][117]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.07:948][186]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.07:964][187]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.07:965][187]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.08:148][198]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.10.08:681][230]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.10.08:697][231]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.10.08:714][232]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.10.08:731][233]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.10.09:015][250]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.09:015][250]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.09:114][256]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.09:115][256]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.10:283][326]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.10:299][327]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.10:299][327]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.10.10:682][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.10:683][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.10.10:715][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-19.10.10:715][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.10:765][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.10.10:800][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.05.23-19.10.10:835][351]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.23-19.10.11:430][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-19.10.11:434][385]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.23-19.10.11:715][386]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.23-19.10.20:555][912]BlueprintLog: New page: Compile BP_FPSwordPA
+[2019.05.23-19.10.20:811][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.05.23-19.10.22:017][968]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-19.10.22:065][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.22:065][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-19.10.22:065][968]PIE: New page: PIE session: playerTestLevel (May 23, 2019, 7:10:22 AM)
+[2019.05.23-19.10.22:065][968]LogPlayLevel: Creating play world package: /Game/swordPlayer/UEDPIE_0_playerTestLevel
+[2019.05.23-19.10.22:069][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002941s)
+[2019.05.23-19.10.22:069][968]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.23-19.10.22:069][968]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2019.05.23-19.10.22:069][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/swordPlayer/playerTestLevel.playerTestLevel to /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel (0.003975s)
+[2019.05.23-19.10.22:113][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.05.23-19.10.22:122][968]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-19.10.22:141][968]LogInit: FAudioDevice initialized.
+[2019.05.23-19.10.22:174][968]LogLoad: Game class is 'swordGameMode_C'
+[2019.05.23-19.10.22:176][968]LogWorld: Bringing World /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel up for play (max tick rate 60) at 2019.05.23-13.10.22
+[2019.05.23-19.10.22:177][968]LogWorld: Bringing up level for play took: 0.002199
+[2019.05.23-19.10.22:192][968]PIE: Play in editor start time for /Game/swordPlayer/UEDPIE_0_playerTestLevel 1.015
+[2019.05.23-19.10.22:192][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.24:090][ 79]LogBlueprintUserMessages: [BP_FPSwordPA_2] HEALTH -- 190.0
+[2019.05.23-19.10.24:091][ 79]LogBlueprintUserMessages: [BP_FPSwordPA_2] Right leg Damage -- 10.0
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] HEALTH -- 180.0
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] Right leg Damage -- 10.0
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] HEALTH -- 170.0
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] Right leg Damage -- 10.0
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.24:107][ 80]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.24:773][120]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.24:774][120]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.25:224][147]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.25:224][147]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.25:224][147]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.25:224][147]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.26:208][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.26:208][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.10.26:244][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-19.10.26:244][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.26:290][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.10.26:295][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.05.23-19.10.26:329][207]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.23-19.10.26:789][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-19.10.28:621][329]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-19.10.28:641][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.28:641][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-19.10.28:641][329]PIE: New page: PIE session: playerTestLevel (May 23, 2019, 7:10:28 AM)
+[2019.05.23-19.10.28:641][329]LogPlayLevel: Creating play world package: /Game/swordPlayer/UEDPIE_0_playerTestLevel
+[2019.05.23-19.10.28:644][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002783s)
+[2019.05.23-19.10.28:645][329]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.23-19.10.28:645][329]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2019.05.23-19.10.28:645][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/swordPlayer/playerTestLevel.playerTestLevel to /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel (0.004063s)
+[2019.05.23-19.10.28:684][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.05.23-19.10.28:694][329]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-19.10.28:712][329]LogInit: FAudioDevice initialized.
+[2019.05.23-19.10.28:742][329]LogLoad: Game class is 'swordGameMode_C'
+[2019.05.23-19.10.28:744][329]LogWorld: Bringing World /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel up for play (max tick rate 60) at 2019.05.23-13.10.28
+[2019.05.23-19.10.28:745][329]LogWorld: Bringing up level for play took: 0.002189
+[2019.05.23-19.10.28:760][329]PIE: Play in editor start time for /Game/swordPlayer/UEDPIE_0_playerTestLevel -0.416
+[2019.05.23-19.10.28:760][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.31:308][481]LogBlueprintUserMessages: [BP_FPSwordPA_2] HEALTH -- 190.0
+[2019.05.23-19.10.31:309][481]LogBlueprintUserMessages: [BP_FPSwordPA_2] Right leg Damage -- 10.0
+[2019.05.23-19.10.31:309][481]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.31:309][481]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.31:325][482]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.31:325][482]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.31:325][482]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.31:325][482]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.35:108][709]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.35:108][709]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.35:108][709]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.35:108][709]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.35:108][709]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.35:108][709]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.35:391][726]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.35:392][726]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.35:525][734]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.35:525][734]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.35:741][747]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] HEALTH -- 190.0
+[2019.05.23-19.10.35:741][747]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Right leg Damage -- 10.0
+[2019.05.23-19.10.35:758][748]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] HEALTH -- 180.0
+[2019.05.23-19.10.35:758][748]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Right leg Damage -- 10.0
+[2019.05.23-19.10.35:775][749]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] HEALTH -- 170.0
+[2019.05.23-19.10.35:775][749]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Right leg Damage -- 10.0
+[2019.05.23-19.10.36:025][764]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] HEALTH -- 160.0
+[2019.05.23-19.10.36:025][764]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Right leg Damage -- 10.0
+[2019.05.23-19.10.36:275][779]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.36:275][779]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.36:275][779]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.36:275][779]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.37:542][855]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.37:542][855]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.38:025][884]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.38:025][884]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.39:442][969]LogBlueprintUserMessages: [BP_FPSwordPA_2] HEALTH -- 180.0
+[2019.05.23-19.10.39:442][969]LogBlueprintUserMessages: [BP_FPSwordPA_2] Right leg Damage -- 10.0
+[2019.05.23-19.10.39:442][969]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.39:442][969]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.39:475][971]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.39:475][971]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.39:475][971]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.39:475][971]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.39:525][974]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] LS Overlap
+[2019.05.23-19.10.39:525][974]LogBlueprintUserMessages: [BP_FPSwordPA_2] LS Overlap
+[2019.05.23-19.10.40:426][ 28]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.40:426][ 28]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.40:443][ 29]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.40:443][ 29]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.43:358][204]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.43:358][204]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.43:358][204]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.43:359][204]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.43:392][206]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] LS Overlap
+[2019.05.23-19.10.43:392][206]LogBlueprintUserMessages: [BP_FPSwordPA_2] LS Overlap
+[2019.05.23-19.10.44:292][260]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.44:292][260]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.46:708][405]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.46:708][405]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.46:708][405]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.46:708][405]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.47:559][456]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.47:559][456]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.47:625][460]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.47:625][460]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.47:643][461]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] true
+[2019.05.23-19.10.47:643][461]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] Chest Damage -- 0.0
+[2019.05.23-19.10.50:326][622]LogBlueprintUserMessages: [BP_FPSwordPA_2] HEALTH -- 170.0
+[2019.05.23-19.10.50:326][622]LogBlueprintUserMessages: [BP_FPSwordPA_2] Right leg Damage -- 10.0
+[2019.05.23-19.10.50:326][622]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.50:326][622]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.50:326][622]LogBlueprintUserMessages: [BP_FPSwordPA_2] HEALTH -- 160.0
+[2019.05.23-19.10.50:326][622]LogBlueprintUserMessages: [BP_FPSwordPA_2] Right leg Damage -- 10.0
+[2019.05.23-19.10.50:326][622]LogBlueprintUserMessages: [BP_FPSwordPA_2] true
+[2019.05.23-19.10.50:326][622]LogBlueprintUserMessages: [BP_FPSwordPA_2] Chest Damage -- 0.0
+[2019.05.23-19.10.51:075][667]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] LS Overlap
+[2019.05.23-19.10.51:075][667]LogBlueprintUserMessages: [BP_FPSwordPA_2] LS Overlap
+[2019.05.23-19.10.52:443][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.52:443][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.10.52:498][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-19.10.52:498][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.10.52:546][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.10.52:552][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.05.23-19.10.52:586][750]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.23-19.10.53:799][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-19.11.54:248][407]BlueprintLog: New page: Compile BP_FPSwordPA
+[2019.05.23-19.11.54:473][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.05.23-19.11.55:875][479]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.23-19.11.55:923][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.11.55:924][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.23-19.11.55:924][479]PIE: New page: PIE session: playerTestLevel (May 23, 2019, 7:11:55 AM)
+[2019.05.23-19.11.55:924][479]LogPlayLevel: Creating play world package: /Game/swordPlayer/UEDPIE_0_playerTestLevel
+[2019.05.23-19.11.55:927][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003344s)
+[2019.05.23-19.11.55:928][479]LogAIModule: Creating AISystem for world playerTestLevel
+[2019.05.23-19.11.55:928][479]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2019.05.23-19.11.55:928][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/swordPlayer/playerTestLevel.playerTestLevel to /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel (0.004599s)
+[2019.05.23-19.11.55:972][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.05.23-19.11.55:982][479]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.23-19.11.56:001][479]LogInit: FAudioDevice initialized.
+[2019.05.23-19.11.56:032][479]LogLoad: Game class is 'swordGameMode_C'
+[2019.05.23-19.11.56:035][479]LogWorld: Bringing World /Game/swordPlayer/UEDPIE_0_playerTestLevel.playerTestLevel up for play (max tick rate 60) at 2019.05.23-13.11.56
+[2019.05.23-19.11.56:036][479]LogWorld: Bringing up level for play took: 0.002995
+[2019.05.23-19.11.56:052][479]PIE: Play in editor start time for /Game/swordPlayer/UEDPIE_0_playerTestLevel 0.876
+[2019.05.23-19.11.56:052][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.11.58:655][630]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.11.58:655][630]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.11.58:788][638]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] LS Overlap
+[2019.05.23-19.11.58:788][638]LogBlueprintUserMessages: [BP_FPSwordPA_2] LS Overlap
+[2019.05.23-19.11.58:821][640]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.11.58:838][641]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.11.58:838][641]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.12.00:389][734]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] LS Overlap
+[2019.05.23-19.12.00:389][734]LogBlueprintUserMessages: [BP_FPSwordPA_2] LS Overlap
+[2019.05.23-19.12.00:539][743]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.12.00:539][743]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.12.00:555][744]LogBlueprintUserMessages: [BP_FPSwordPA_C_0] false
+[2019.05.23-19.12.00:906][765]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.12.00:906][765]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.12.00:906][765]LogBlueprintUserMessages: [BP_FPSwordPA_2] false
+[2019.05.23-19.12.01:824][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.12.01:824][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.12.01:859][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.23-19.12.01:859][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel' with GeneratedClass '/Game/swordPlayer/playerTestLevel.playerTestLevel_C' with ClassGeneratedBy '/Game/swordPlayer/playerTestLevel.playerTestLevel:PersistentLevel.playerTestLevel'
+[2019.05.23-19.12.01:900][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.23-19.12.01:905][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.05.23-19.12.01:941][821]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.23-19.12.02:324][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.23-19.12.04:976][992]LogRenderer: Reallocating scene render targets to support 1144x708 Format 9 NumSamples 1 (Frame:1).
+[2019.05.23-19.12.18:682][802]LogUObjectArray: Warning: Other object in slot
+[2019.05.23-19.12.18:682][802]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.23-19.12.18:945][802]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.263 s
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: 
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: Stack: 
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdaa2db0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffda9b56d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffda9b648e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdb79637e2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdaed95cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdaed51e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdbe535984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdbe7215e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdbe57d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdbe55af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdbe550287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdfe00b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdfdffef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdfe00d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdfdffc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffe1edcca66 USER32.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffe1edcc582 USER32.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffdfe00e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ff6f5c75d3e UE4Editor.exe!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ff6f5c8554c UE4Editor.exe!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ff6f5c855ca UE4Editor.exe!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ff6f5c9316c UE4Editor.exe!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ff6f5c95b8e UE4Editor.exe!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffe1d767974 KERNEL32.DLL!UnknownFunction []
+[2019.05.23-19.12.18:945][802]LogOutputDevice: Error: [Callstack] 0x00007ffe1feba271 ntdll.dll!UnknownFunction []
+[2019.05.23-19.12.18:946][802]LogOutputDevice: Error: 
+[2019.05.23-19.12.18:954][802]LogStats:                SubmitErrorReport -  0.000 s
